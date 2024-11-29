@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    align-items: center;
+    flex-direction: row;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.container  {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
